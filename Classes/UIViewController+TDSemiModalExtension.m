@@ -23,7 +23,7 @@
 {
     CGPoint offScreenCenter = CGPointZero;
     
-    UIDeviceOrientation orientation = [[UIDevice currentDevice] orientation];
+    UIDeviceOrientation orientation = [[UIApplication sharedApplication]statusBarOrientation];
     CGSize offSize = UIScreen.mainScreen.bounds.size;
     
     if(orientation == UIInterfaceOrientationLandscapeLeft
