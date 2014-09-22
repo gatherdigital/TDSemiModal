@@ -22,6 +22,12 @@
 
 }
 
+- (NSUInteger)supportedInterfaceOrientations
+{
+    return UIInterfaceOrientationMaskAll;
+}
+
+
 #pragma mark -
 #pragma mark Memory Management
 
