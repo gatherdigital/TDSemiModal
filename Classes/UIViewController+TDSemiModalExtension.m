@@ -58,9 +58,10 @@
     
     modalView.frame = rootView.bounds;
 	modalView.center = self.offscreenCenter;
-	
-	[rootView addSubview:coverView];
-	[rootView addSubview:modalView];
+
+    UIWindow* mainWindow = [[UIApplication sharedApplication] keyWindow];
+    [mainWindow addSubview:coverView];
+    [mainWindow addSubview:modalView];
 	
     [UIView animateWithDuration:.6 animations:^{
         modalView.frame = CGRectMake(0,

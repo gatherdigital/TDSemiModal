@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d6edbae-c8f8-4829-b46c-ece8fd39e920" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/TDSemiModal.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/TDSemiModal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/TDSemiModalViewController.m" afterPath="$PROJECT_DIR$/Classes/TDSemiModalViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m" afterPath="$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m" />
     </list>
     <ignored path="TDSemiModal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UIViewController+TDSemiModalExtension.m" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UIViewController+TDSemiModalExtension.m" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1455">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.67873305" vertical-offset="495" max-vertical-offset="1470">
+              <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -56,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TDSemiModalViewController.m" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TDSemiModalViewController.m" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classes/TDSemiModalViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7013575" vertical-offset="0" max-vertical-offset="705">
-              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+              <caret line="17" column="100" selection-start-line="17" selection-start-column="100" selection-end-line="17" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -79,14 +78,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m" />
         <option value="$PROJECT_DIR$/Classes/TDSemiModalViewController.m" />
+        <option value="$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="45" />
+    <option name="x" value="291" />
+    <option name="y" value="48" />
     <option name="width" value="1320" />
     <option name="height" value="786" />
   </component>
@@ -179,7 +178,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="45" width="1320" height="786" extended-state="0" />
+    <frame x="291" y="48" width="1320" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -223,14 +222,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1455">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classes/TDDatePickerController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
@@ -257,8 +248,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Classes/TDSemiModalViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7013575" vertical-offset="0" max-vertical-offset="705">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <caret line="17" column="100" selection-start-line="17" selection-start-column="100" selection-end-line="17" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes/UIViewController+TDSemiModalExtension.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67873305" vertical-offset="495" max-vertical-offset="1470">
+          <caret line="63" column="38" selection-start-line="63" selection-start-column="38" selection-end-line="63" selection-end-column="38" />
           <folding />
         </state>
       </provider>
